@@ -1,0 +1,14 @@
+C:\Users\djuzu\Desktop\ALPHA\C#.BACKEND\CODEWARS_C#\obj\Debug\net9.0\codewars_c#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\djuzu\Desktop\ALPHA\C#.BACKEND\CODEWARS_C#\obj\Debug\net9.0\codewars_c#.AssemblyInfoInputs.cache
+C:\Users\djuzu\Desktop\ALPHA\C#.BACKEND\CODEWARS_C#\obj\Debug\net9.0\codewars_c#.AssemblyInfo.cs
+C:\Users\djuzu\Desktop\ALPHA\C#.BACKEND\CODEWARS_C#\obj\Debug\net9.0\codewars_c#.csproj.CoreCompileInputs.cache
+C:\Users\djuzu\Desktop\ALPHA\C#.BACKEND\CODEWARS_C#\bin\Debug\net9.0\codewars_c#.exe
+C:\Users\djuzu\Desktop\ALPHA\C#.BACKEND\CODEWARS_C#\bin\Debug\net9.0\codewars_c#.deps.json
+C:\Users\djuzu\Desktop\ALPHA\C#.BACKEND\CODEWARS_C#\bin\Debug\net9.0\codewars_c#.runtimeconfig.json
+C:\Users\djuzu\Desktop\ALPHA\C#.BACKEND\CODEWARS_C#\bin\Debug\net9.0\codewars_c#.dll
+C:\Users\djuzu\Desktop\ALPHA\C#.BACKEND\CODEWARS_C#\bin\Debug\net9.0\codewars_c#.pdb
+C:\Users\djuzu\Desktop\ALPHA\C#.BACKEND\CODEWARS_C#\obj\Debug\net9.0\codewars_c#.dll
+C:\Users\djuzu\Desktop\ALPHA\C#.BACKEND\CODEWARS_C#\obj\Debug\net9.0\refint\codewars_c#.dll
+C:\Users\djuzu\Desktop\ALPHA\C#.BACKEND\CODEWARS_C#\obj\Debug\net9.0\codewars_c#.pdb
+C:\Users\djuzu\Desktop\ALPHA\C#.BACKEND\CODEWARS_C#\obj\Debug\net9.0\codewars_c#.genruntimeconfig.cache
+C:\Users\djuzu\Desktop\ALPHA\C#.BACKEND\CODEWARS_C#\obj\Debug\net9.0\ref\codewars_c#.dll

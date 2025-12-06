@@ -1,0 +1,14 @@
+C:\Users\djuzu\Desktop\ALPHA\C#.BACKEND\CODEWARS_C#\bin\Debug\net9.0\..exe
+C:\Users\djuzu\Desktop\ALPHA\C#.BACKEND\CODEWARS_C#\bin\Debug\net9.0\..deps.json
+C:\Users\djuzu\Desktop\ALPHA\C#.BACKEND\CODEWARS_C#\bin\Debug\net9.0\..runtimeconfig.json
+C:\Users\djuzu\Desktop\ALPHA\C#.BACKEND\CODEWARS_C#\bin\Debug\net9.0\..dll
+C:\Users\djuzu\Desktop\ALPHA\C#.BACKEND\CODEWARS_C#\bin\Debug\net9.0\..pdb
+C:\Users\djuzu\Desktop\ALPHA\C#.BACKEND\CODEWARS_C#\obj\Debug\net9.0\..GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\djuzu\Desktop\ALPHA\C#.BACKEND\CODEWARS_C#\obj\Debug\net9.0\..AssemblyInfoInputs.cache
+C:\Users\djuzu\Desktop\ALPHA\C#.BACKEND\CODEWARS_C#\obj\Debug\net9.0\..AssemblyInfo.cs
+C:\Users\djuzu\Desktop\ALPHA\C#.BACKEND\CODEWARS_C#\obj\Debug\net9.0\..csproj.CoreCompileInputs.cache
+C:\Users\djuzu\Desktop\ALPHA\C#.BACKEND\CODEWARS_C#\obj\Debug\net9.0\..dll
+C:\Users\djuzu\Desktop\ALPHA\C#.BACKEND\CODEWARS_C#\obj\Debug\net9.0\refint\..dll
+C:\Users\djuzu\Desktop\ALPHA\C#.BACKEND\CODEWARS_C#\obj\Debug\net9.0\..pdb
+C:\Users\djuzu\Desktop\ALPHA\C#.BACKEND\CODEWARS_C#\obj\Debug\net9.0\..genruntimeconfig.cache
+C:\Users\djuzu\Desktop\ALPHA\C#.BACKEND\CODEWARS_C#\obj\Debug\net9.0\ref\..dll
