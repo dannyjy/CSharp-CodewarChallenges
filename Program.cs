@@ -11,13 +11,19 @@ namespace Challenges
             // Console.WriteLine(b);
 
             int c = CarSpace.Enough(20,15,0);
-            Console.WriteLine(c);
+            // Console.WriteLine(c);
 
             bool d = HeroSurvive.Hero(7,4);
-            Console.WriteLine(d);
+            // Console.WriteLine(d);
 
             int e = AngleTriangle.OtherAngle(60,100);
-            Console.WriteLine(e);
+            // Console.WriteLine(e);
+
+            var arr = ArrayDifference.ArrayDiff(new int[] {1,2,2}, new int[] {1});
+            // Console.WriteLine(Even.IsEven(1));
+
+            var f = StringExt.ToAlternatingCase("Feasd WoN");
+            Console.WriteLine(f);
         }
     }
 }
