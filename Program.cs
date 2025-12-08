@@ -24,6 +24,10 @@ namespace Challenges
 
             var f = StringExt.ToAlternatingCase("Feasd WoN");
             Console.WriteLine(f);
+
+            Console.WriteLine(Sum.PositiveSum([-1, -2, -3, -4, -5]));
+            var g = ArraysInversion.InvertValues([-1, 2, -3, -4, 5]);
+                
         }
     }
 }
