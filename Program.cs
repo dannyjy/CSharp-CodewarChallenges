@@ -27,7 +27,10 @@ namespace Challenges
 
             Console.WriteLine(Sum.PositiveSum([-1, -2, -3, -4, -5]));
             var g = ArraysInversion.InvertValues([-1, 2, -3, -4, 5]);
-                
+
+            var arr2 = CountX.CountBy(2,5);
+            string h = BooleanString.BooleanToString(false);
+            Console.WriteLine(h);
         }
     }
 }
