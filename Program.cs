@@ -30,7 +30,24 @@ namespace Challenges
 
             var arr2 = CountX.CountBy(2,5);
             string h = BooleanString.BooleanToString(false);
-            Console.WriteLine(h);
+            // Console.WriteLine(h);
+
+            int sum = SumArray.SumArrayValues([34,56,123]);
+            // Console.WriteLine(sum);
+
+            string name = FindName.FindNameInArray("Jay",["John","Josphe","Jay"]);
+            // Console.WriteLine(name);
+
+            // Console.WriteLine(SquareNumber.square(5));
+
+            var dna = DnaStrand.MakeComplement("ATTGC");
+            // Console.WriteLine(dna);
+
+            var list = MultiplesOf.FindMultiples(2,6);
+            foreach (var i in list)
+            {
+                Console.WriteLine(i);
+            }
         }
     }
 }
