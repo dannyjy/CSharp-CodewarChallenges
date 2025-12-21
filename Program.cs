@@ -48,6 +48,9 @@ namespace Challenges
             {
                 Console.WriteLine(i);
             }
+
+            int min = MaxMin.Min(new[] { -52, 56, 30, 29, -54, 0, -110 });
+            Console.WriteLine(min);
         }
     }
 }
