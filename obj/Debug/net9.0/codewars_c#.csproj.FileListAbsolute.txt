@@ -12,3 +12,4 @@ C:\Users\djuzu\Desktop\ALPHA\C#.BACKEND\CODEWARS_C#\obj\Debug\net9.0\refint\code
 C:\Users\djuzu\Desktop\ALPHA\C#.BACKEND\CODEWARS_C#\obj\Debug\net9.0\codewars_c#.pdb
 C:\Users\djuzu\Desktop\ALPHA\C#.BACKEND\CODEWARS_C#\obj\Debug\net9.0\codewars_c#.genruntimeconfig.cache
 C:\Users\djuzu\Desktop\ALPHA\C#.BACKEND\CODEWARS_C#\obj\Debug\net9.0\ref\codewars_c#.dll
+C:\Users\djuzu\Desktop\ALPHA\C#.BACKEND\CODEWARS_C#\obj\Debug\net9.0\codewars_c#.sourcelink.json
